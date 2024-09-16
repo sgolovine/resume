@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sgolovine/resume/main/schema.json",
+  "basics": {
+    "name": "Arseniy (Sunny) Avery",
+    "email": "sunny@golovinemail.org",
+    "label": "Software Engineering Manager",
+    "phone": "(678) 646 2358",
+    "url": "https://sunny.gg",
+    "summary": "Software Engineering manager with 7+ years of experience. Specializing in full stack Javascript/NodeJS with experience building web, mobile and backend applications.",
+    "location": {
+      "city": "Denver",
+      "region": "Colorado",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "url": "https://github.com/sgolovine",
+        "username": "sgolovine"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sunnygolovine/",
+        "username": "sunnygolovine"
+      }
+    ]
+  }
+}
