@@ -7,6 +7,7 @@
     "phone": "(678) 646 2358",
     "url": "https://sunny.gg",
     "summary": "Software Engineering manager with 7+ years of experience. Specializing in full stack Javascript/NodeJS with experience building web, mobile and backend applications.",
+    "image": "https://raw.githubusercontent.com/sgolovine/resume/main/profile-picture.png",
     "location": {
       "city": "Denver",
       "region": "Colorado",
@@ -24,5 +25,104 @@
         "username": "sunnygolovine"
       }
     ]
-  }
+  },
+  "work": [
+    {
+      "name": "Ascendum Solutions",
+      "position": "Software Engineering Manager",
+      "url": "https://www.ascendum.com/",
+      "startDate": "2020-04-01",
+      "summary": "Joined Ascendum in April 2020 and have since worked with numerous clients as well as on internal project in many capacities, from software engineer, architecture and leadership.",
+      "highlights": [
+        "Frontend lead on an internal AI product that lets companies deploy personalized GPT chatbots that have the context of their orgs policies, knowledge base, etc.",
+        "Worked with a Fortune 500 healthcare company on various initiatives to improve their web and mobile experiences",
+        "Manage a team of 8 developers, providing leadership and career support",
+        "Led numerous teams on various client and internal products with a focus on mentorship"
+      ]
+    },
+    {
+      "name": "Cox Automotive",
+      "position": "Software Engineer",
+      "url": "https://www.coxautoinc.com/",
+      "startDate": "2018-08-01",
+      "endDate": "2020-04-01",
+      "description": "Software engineer on a team building automotive inspection solutions for dealerships",
+      "highlights": [
+        "Worked on a team that built an internal application used by employees to inspect vehicles",
+        "Led the effort to commercialize the internal application and turn it into a public facing application called Next Inspect",
+        "Helped build and maintain a number of other applications within the Cox Auto ecosystem that combined, increased the divisions revenue by 20%"
+      ]
+    },
+    {
+      "name": "OnQ",
+      "position": "Jr Software Engineer",
+      "startDate": "2017-06-01",
+      "endDate": "2018-08-01",
+      "description": "Started my career at a startup focused on building a learning platform for company employees",
+      "highlights": [
+        "Worked alongside senior engineers to build the web UI for the learning platform",
+        "Worked on a team to greenfield the companies official mobile application",
+        "Led an effort to fork a WYSIWYG editor and modify it for our use case."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgia Southern University",
+      "startDate": "2015-01-01",
+      "endDate": "2017-05-01",
+      "area": "Computer Science",
+      "studyType": "Bachelors"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend JS",
+      "level": "Senior",
+      "keywords": [
+        "ReactJS",
+        "Angular",
+        "Vue",
+        "Svelte",
+        "Vite",
+        "Typescript",
+        "Webpack",
+        "NextJS"
+      ]
+    },
+    {
+      "name": "Backend JS",
+      "level": "Senior",
+      "keywords": ["ExpressJS", "Fastify", "Serverless"]
+    },
+    {
+      "name": "Database",
+      "level": "Senior",
+      "keywords": ["PostgreSQL", "SQLite", "DynamoDB", "Google Firestore"]
+    },
+    {
+      "name": "Cloud / Amazon Web Services",
+      "level": "Mid-Level",
+      "keywords": [
+        "EC2",
+        "Cognito",
+        "DynamoDB",
+        "VPC + Networking",
+        "SES (Simple Email Service)",
+        "CloudFront",
+        "API Gateway",
+        "Lambda"
+      ]
+    },
+    {
+      "name": "Cloud / General",
+      "level": "Mid-Level",
+      "keywords": ["GCP", "Firebase", "Digital Ocean", "Netlify", "Vercel"]
+    },
+    {
+      "name": "Other",
+      "level": "Mid-Level",
+      "keywords": ["Docker"]
+    }
+  ]
 }
